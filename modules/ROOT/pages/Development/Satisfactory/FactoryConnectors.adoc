@@ -58,7 +58,7 @@ This function is only used to allow the output to check what it can grab if it w
 == FGFactoryConnection
 
 A `UFGFactoryConnectionComponent` is a `USceneComponent` used to implement a Factory-Connector.
-Use this directly as a component for you `AFGBuildable`.
+Use this directly as a component for your `AFGBuildable`.
 
 * {blank}
 +
